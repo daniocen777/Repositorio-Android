@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658037948969",
+    "project_id": "android-firebase-1-bebec",
+    "storage_bucket": "android-firebase-1-bebec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658037948969:android:0dd76e8451a3f409b91238",
+        "android_client_info": {
+          "package_name": "com.danicode.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658037948969-48i976ecqvvddtd1h5tt307oojk0tcpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danicode.firebase",
+            "certificate_hash": "45e3a7213195ceac71a1e883ab3ef651443e400e"
+          }
+        },
+        {
+          "client_id": "658037948969-q9gggglaooppoa485kr71fa1eavtb6j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoR8zz7mdSyS3VFILPQyaq0GUwLfskm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658037948969-q9gggglaooppoa485kr71fa1eavtb6j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
