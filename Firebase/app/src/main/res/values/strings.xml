@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Firebase</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome Danicode</string>
+    <string name="button_sign_out">Sign Out</string>
 </resources>
