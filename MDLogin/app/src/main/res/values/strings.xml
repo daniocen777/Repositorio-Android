@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MDLogin</string>
+    <string name="btn_login">Iniciar Sesión</string>
+</resources>
