@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MDLogin</string>
     <string name="btn_login">Iniciar Sesión</string>
+    <string name="hint_password">Password</string>
+    <string name="helper_password">Al menos 8 caracteres</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="helper_username">Nombres y apellidos</string>
 </resources>
